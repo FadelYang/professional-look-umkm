@@ -1,0 +1,19 @@
+footer,
+.main-background-image-container {
+    position: relative;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url("../images/usgs-hoS3dzgpHzw-unsplash.webp");
+    background-size: cover;
+    background-size: cover;
+    color: white;
+}
+
+nav {
+    background-color: transparent !important;
+    color: white;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
